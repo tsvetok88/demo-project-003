@@ -7,9 +7,6 @@ echo "Hello world";
 # double agent
 
 echo 'new branch';
-<<<<<<< HEAD
-=======
 echo 'new branch 2';
->>>>>>> test
 
 ?>
